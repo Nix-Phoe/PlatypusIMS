@@ -1,0 +1,1 @@
+CREATE OR REPLACE USER platypus_user WITH PASSWORD 'nix';
